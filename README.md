@@ -2,7 +2,7 @@
 This is a Projectile Physics simulation
 
 *Requires
-pip3 install pygame
+pygame
 
--To Run Py
+-To Run Python Program
 python3 run.py
